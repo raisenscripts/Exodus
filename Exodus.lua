@@ -1,5 +1,3 @@
-
--- // Leaked by Splitta & Consist /My Larp
 getgenv().Exodus = {
     Options = {
         ['Intro'] = true,
