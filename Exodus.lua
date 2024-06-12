@@ -1,7 +1,7 @@
 getgenv().Exodus = {
     Options = {
         ['Intro'] = true,
-        ['SerialKey'] = "ur_key_here" 
+        ['SerialKey'] = "sigma" 
     },
     Aimbot = {
         ['Enabled'] = true,
